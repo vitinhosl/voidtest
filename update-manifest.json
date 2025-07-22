@@ -1,0 +1,6 @@
+{
+  "files": [
+    { "path": "bin/app.exe",      "hash": "SHA256-do-arquivo" },
+    { "path": "data/config.json",  "hash": "SHA256-do-arquivo" }
+  ]
+}
